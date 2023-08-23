@@ -2,5 +2,6 @@
 * For Android & IOS
 * Built using Expo and React-Native
 
-# Deployment
-After installing the basics, deploy using `npx expo start --tunnel`
+# Install & Deploy
+* Install: `npx create-expo-app AwesomeProject`
+* Deploy: `npx expo start --tunnel`
